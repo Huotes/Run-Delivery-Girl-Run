@@ -1,0 +1,10 @@
+global.dialogo = false;
+global.cutscene = false;
+global.donut = 0;
+global.level1complete = false;
+global.level2complete = false;
+global.level3complete = false;
+global.level4complete = false;
+global.level5complete = false;
+global.primeiroencontroboss = false;
+cursor_sprite = sCursor;
